@@ -19,4 +19,6 @@ g++ -std=c++11 -O3 cpp/yolo.cpp -o yolo_example `pkg-config --cflags --libs open
 ```
 
 To change the example given in code, change a filename in yolo.cpp # practiceETU
+
+
 Upload your model file (.onnx) to config_files.
