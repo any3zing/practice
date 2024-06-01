@@ -18,4 +18,4 @@ g++ -std=c++11 -O3 cpp/yolo.cpp -o yolo_example `pkg-config --cflags --libs open
 ./yolo_example
 ```
 
-To change the example given in code, change a filename in yolo.cpp 
+To change the example given in code, change a filename in yolo.cpp # practiceETU
